@@ -7,5 +7,5 @@
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
     "kill-targets": "",
     "stealth-fullscreen": false,
-	  "api-endpoint":"https://blackhole.software/arapavcisi//api/endpoint.php"
+	  "api-endpoint":"https://blackhole.software/arapavcisi/api/endpoint.php"
 }
